@@ -29,7 +29,7 @@
 
 1.  **Клонируйте репозиторий** или скачайте файлы скрипта.
     ```bash
-    git clone https://github.com/your-username/wildberries-price-monitor.git
+    git clone https://github.com/Zzio4/wb-helper
     ```
 
 2.  **Перейдите в директорию проекта.**
