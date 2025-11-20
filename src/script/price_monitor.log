@@ -1,0 +1,259 @@
+2025-11-19 14:57:41,530 - INFO - База данных настроена успешно
+2025-11-19 14:57:41,531 - INFO - ====== WebDriver manager ======
+2025-11-19 14:57:42,642 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-19 14:57:43,499 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-19 14:57:44,199 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-19 14:58:05,947 - INFO - Мониторинг завершен
+2025-11-20 06:58:23,434 - INFO - База данных настроена успешно
+2025-11-20 06:58:23,435 - INFO - ====== WebDriver manager ======
+2025-11-20 06:58:25,633 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 06:58:26,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 06:58:27,408 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 06:58:29,047 - INFO - WebDriver version 142.0.7444.175 selected
+2025-11-20 06:58:29,052 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-20 06:58:29,052 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-20 06:58:29,713 - INFO - Driver downloading response is 200
+2025-11-20 06:58:31,324 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 06:58:32,191 - INFO - Driver has been saved in cache [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+2025-11-20 06:58:57,294 - ERROR - Ошибка при получении цены с https://www.wildberries.ru/catalog/215452382/detail.aspx: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1284103
+	0x1284144
+	0x108e71d
+	0x10da03d
+	0x10da41b
+	0x11217f2
+	0x10fc954
+	0x111ee17
+	0x10fc706
+	0x10cda30
+	0x10ced54
+	0x14f57b4
+	0x14f098a
+	0x12ac392
+	0x129c4c8
+	0x12a324d
+	0x128c478
+	0x128c63c
+	0x12767ca
+	0x75db5d49
+	0x77aed6db
+	0x77aed661
+
+2025-11-20 06:59:12,849 - ERROR - Ошибка при получении цены с https://www.wildberries.ru/catalog/41231346/detail.aspx: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1284103
+	0x1284144
+	0x108e71d
+	0x10da03d
+	0x10da41b
+	0x11217f2
+	0x10fc954
+	0x111ee17
+	0x10fc706
+	0x10cda30
+	0x10ced54
+	0x14f57b4
+	0x14f098a
+	0x12ac392
+	0x129c4c8
+	0x12a324d
+	0x128c478
+	0x128c63c
+	0x12767ca
+	0x75db5d49
+	0x77aed6db
+	0x77aed661
+
+2025-11-20 06:59:15,515 - INFO - Мониторинг завершен
+2025-11-20 07:00:14,570 - INFO - База данных настроена успешно
+2025-11-20 07:00:14,571 - INFO - ====== WebDriver manager ======
+2025-11-20 07:00:15,459 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:00:16,169 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:00:16,851 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:00:33,795 - ERROR - Ошибка при получении цены с https://www.wildberries.ru/catalog/215452382/detail.aspx: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1284103
+	0x1284144
+	0x108e71d
+	0x10da03d
+	0x10da41b
+	0x11217f2
+	0x10fc954
+	0x111ee17
+	0x10fc706
+	0x10cda30
+	0x10ced54
+	0x14f57b4
+	0x14f098a
+	0x12ac392
+	0x129c4c8
+	0x12a324d
+	0x128c478
+	0x128c63c
+	0x12767ca
+	0x75db5d49
+	0x77aed6db
+	0x77aed661
+
+2025-11-20 07:00:49,251 - ERROR - Ошибка при получении цены с https://www.wildberries.ru/catalog/41231346/detail.aspx: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1284103
+	0x1284144
+	0x108e71d
+	0x10da03d
+	0x10da41b
+	0x11217f2
+	0x10fc954
+	0x111ee17
+	0x10fc706
+	0x10cda30
+	0x10ced54
+	0x14f57b4
+	0x14f098a
+	0x12ac392
+	0x129c4c8
+	0x12a324d
+	0x128c478
+	0x128c63c
+	0x12767ca
+	0x75db5d49
+	0x77aed6db
+	0x77aed661
+
+2025-11-20 07:00:51,384 - INFO - Мониторинг завершен
+2025-11-20 07:02:48,374 - INFO - База данных настроена успешно
+2025-11-20 07:02:48,374 - INFO - ====== WebDriver manager ======
+2025-11-20 07:02:49,216 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:02:49,907 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:02:50,563 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:03:07,339 - ERROR - Ошибка при получении цены с https://www.wildberries.ru/catalog/215452382/detail.aspx: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1284103
+	0x1284144
+	0x108e71d
+	0x10da03d
+	0x10da41b
+	0x11217f2
+	0x10fc954
+	0x111ee17
+	0x10fc706
+	0x10cda30
+	0x10ced54
+	0x14f57b4
+	0x14f098a
+	0x12ac392
+	0x129c4c8
+	0x12a324d
+	0x128c478
+	0x128c63c
+	0x12767ca
+	0x75db5d49
+	0x77aed6db
+	0x77aed661
+
+2025-11-20 07:03:17,534 - INFO - Мониторинг остановлен пользователем
+2025-11-20 07:03:17,536 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/ca8bdc26389060fc598175429bf94c03/window
+2025-11-20 07:03:31,797 - INFO - База данных настроена успешно
+2025-11-20 07:03:31,798 - INFO - ====== WebDriver manager ======
+2025-11-20 07:03:32,686 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:03:37,856 - INFO - База данных настроена успешно
+2025-11-20 07:03:37,857 - INFO - ====== WebDriver manager ======
+2025-11-20 07:03:38,770 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:03:39,478 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:03:40,189 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:03:57,749 - INFO - Мониторинг завершен
+2025-11-20 07:04:31,631 - INFO - База данных настроена успешно
+2025-11-20 07:04:31,631 - INFO - ====== WebDriver manager ======
+2025-11-20 07:04:32,548 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:04:33,253 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:04:33,911 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:04:49,019 - INFO - Было: 2020.0 руб., Стало: 2020.0 руб. (+0.0%)
+2025-11-20 07:04:51,123 - INFO - Мониторинг завершен
+2025-11-20 07:05:25,719 - INFO - База данных настроена успешно
+2025-11-20 07:05:25,720 - INFO - ====== WebDriver manager ======
+2025-11-20 07:05:26,643 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:05:27,358 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:05:28,117 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:05:44,962 - ERROR - Ошибка при получении цены с https://www.wildberries.ru/catalog/367967601/detail.aspx: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1284103
+	0x1284144
+	0x108e71d
+	0x10da03d
+	0x10da41b
+	0x11217f2
+	0x10fc954
+	0x111ee17
+	0x10fc706
+	0x10cda30
+	0x10ced54
+	0x14f57b4
+	0x14f098a
+	0x12ac392
+	0x129c4c8
+	0x12a324d
+	0x128c478
+	0x128c63c
+	0x12767ca
+	0x75db5d49
+	0x77aed6db
+	0x77aed661
+
+2025-11-20 07:05:47,058 - INFO - Мониторинг завершен
+2025-11-20 07:06:54,587 - INFO - База данных настроена успешно
+2025-11-20 07:06:54,588 - INFO - ====== WebDriver manager ======
+2025-11-20 07:06:55,554 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:06:56,259 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:06:56,962 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:07:06,182 - INFO - Мониторинг завершен
+2025-11-20 07:07:54,448 - INFO - База данных настроена успешно
+2025-11-20 07:07:54,449 - INFO - ====== WebDriver manager ======
+2025-11-20 07:07:55,373 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:07:56,080 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:07:56,797 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:08:06,200 - INFO - Мониторинг завершен
+2025-11-20 07:13:34,956 - INFO - База данных настроена успешно
+2025-11-20 07:13:34,957 - INFO - ====== WebDriver manager ======
+2025-11-20 07:13:35,816 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:13:36,517 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:13:37,217 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:13:53,949 - ERROR - Ошибка при получении цены с https://www.wildberries.ru/catalog/367967601/detail.aspx: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1284103
+	0x1284144
+	0x108e71d
+	0x10da03d
+	0x10da41b
+	0x11217f2
+	0x10fc954
+	0x111ee17
+	0x10fc706
+	0x10cda30
+	0x10ced54
+	0x14f57b4
+	0x14f098a
+	0x12ac392
+	0x129c4c8
+	0x12a324d
+	0x128c478
+	0x128c63c
+	0x12767ca
+	0x75db5d49
+	0x77aed6db
+	0x77aed661
+
+2025-11-20 07:13:56,317 - INFO - Мониторинг завершен
+2025-11-20 07:14:40,456 - INFO - База данных настроена успешно
+2025-11-20 07:14:40,456 - INFO - ====== WebDriver manager ======
+2025-11-20 07:14:41,326 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:14:41,985 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:14:42,680 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:14:51,927 - INFO - Мониторинг завершен

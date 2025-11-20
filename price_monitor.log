@@ -1,0 +1,7 @@
+2025-11-20 07:02:23,097 - INFO - База данных настроена успешно
+2025-11-20 07:02:23,098 - INFO - ====== WebDriver manager ======
+2025-11-20 07:02:24,079 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:02:24,807 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-20 07:02:25,539 - INFO - Driver [C:\Users\vdavy\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-20 07:02:26,631 - ERROR - Критическая ошибка: [Errno 2] No such file or directory: 'links.txt'
+2025-11-20 07:02:26,718 - INFO - Мониторинг завершен
